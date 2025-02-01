@@ -5,3 +5,9 @@ This repository is for practicing SQL queries. Today, I created a SQL file with 
 - Learn basic SQL syntax.
 - Practice writing queries.
 - Build a small project using a database.
+
+## Files Added Today:
+- `select_queries.sql`: Contains examples of SELECT queries.
+- `insert_queries.sql`: Contains examples of INSERT queries.
+- `update_queries.sql`: Contains examples of UPDATE queries.
+- `delete_queries.sql`: Contains examples of DELETE queries.
