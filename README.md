@@ -17,3 +17,13 @@ This repository is for practicing SQL queries. Today, I created a SQL file with 
 - `schema.sql`: Defines the database schema for `user_orders_db`.
 - `sample_data.sql`: Contains sample data for the `user_orders_db` database.
 - `queries/`: Contains SQL query files for practicing SELECT, INSERT, UPDATE, and DELETE statements.
+
+## Key Concepts
+
+### INNER JOIN
+- **Purpose**: Combines rows from two tables where the join condition is met.
+- **Behavior**:
+  - Returns only rows with matching values in both tables.
+  - Users with no orders (e.g., 'charlie' or 'dave') are excluded.
+  - Orders with invalid `user_id` values are excluded.
+- Example Query: See [`queries/join_queries.sql`](queries/join_queries.sql).
