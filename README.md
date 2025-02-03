@@ -11,6 +11,7 @@ This repository is for practicing SQL queries. Today, I created a SQL file with 
 - `insert_queries.sql`: Contains examples of INSERT queries.
 - `update_queries.sql`: Contains examples of UPDATE queries.
 - `delete_queries.sql`: Contains examples of DELETE queries.
+- `join_queries.sql`: Demonstrates joining users and orders tables.
 
 - ## Files and Folders:
 - `schema.sql`: Defines the database schema for `user_orders_db`.
