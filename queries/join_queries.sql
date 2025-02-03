@@ -1,4 +1,5 @@
 -- queries/join_queries.sql
+-- Live Demo: https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/1
 -- Join users and orders to show products ordered by each user
 SELECT users.username, orders.product_name
 FROM users
