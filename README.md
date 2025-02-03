@@ -30,8 +30,8 @@ This repository is for practicing SQL queries. Today, I created a SQL file with 
 
 ## Live Demo
 Test the queries in DB Fiddle:  
-[DB Fiddle Demo](https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/1)
-[DB Fiddle Demo](https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/2)
+- [DB Fiddle Demo](https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/1)
+- [DB Fiddle Demo](https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/2)
 
 ## Join Examples
 This repository now includes examples of all SQL join types:
