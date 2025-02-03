@@ -1,5 +1,6 @@
 -- queries/join_queries.sql
 -- Live Demo: https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/1
+-- Live Demo: https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/2
 
 -- 1. INNER JOIN (Default)
 -- Matches users with their orders
