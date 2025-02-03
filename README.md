@@ -27,3 +27,7 @@ This repository is for practicing SQL queries. Today, I created a SQL file with 
   - Users with no orders (e.g., 'charlie' or 'dave') are excluded.
   - Orders with invalid `user_id` values are excluded.
 - Example Query: See [`queries/join_queries.sql`](queries/join_queries.sql).
+
+## Live Demo
+Test the queries in DB Fiddle:  
+[DB Fiddle Demo](https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/1)
