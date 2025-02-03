@@ -31,3 +31,13 @@ This repository is for practicing SQL queries. Today, I created a SQL file with 
 ## Live Demo
 Test the queries in DB Fiddle:  
 [DB Fiddle Demo](https://www.db-fiddle.com/f/w8Xr3qnK698GUitwZ7hHZN/1)
+
+## Join Examples
+This repository now includes examples of all SQL join types:
+1. **INNER JOIN**: Matches users with their orders.
+2. **LEFT JOIN**: Shows all users, including those with no orders.
+3. **RIGHT JOIN**: Shows all products, including those never ordered.
+4. **FULL OUTER JOIN**: Combines all users and products (simulated with `UNION` in MySQL).
+5. **CROSS JOIN**: Generates all possible user-product pairs.
+
+See [`queries/join_queries.sql`](queries/join_queries.sql) for details.
